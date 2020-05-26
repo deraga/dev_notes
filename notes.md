@@ -15,7 +15,7 @@ du -sh * | grep -E "\dG"
 
 - mac osx won't wake from sleep 
 
-sudo pmset standby 0
+sudo pmset standby 0  
 sudo pmset autopoweroff 0
 
 ref: https://pdf.wondershare.com/macos-10-14/fix-mac-wont-wake-from-sleep-on-macos-10-14.html
