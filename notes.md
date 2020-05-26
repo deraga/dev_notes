@@ -1,6 +1,6 @@
 ## Mac 
 
-- find folder taking most disk space
+- find folder taking most disk space  
 du -sh * | grep -E "\dG"
 
 1.8G Documents
@@ -13,8 +13,7 @@ du -sh * | grep -E "\dG"
 8.4G WorkDocs
 194G brazil-pkg-cache
 
-- mac osx won't wake from sleep 
-
+- mac osx won't wake from sleep   
 sudo pmset standby 0  
 sudo pmset autopoweroff 0
 
