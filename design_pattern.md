@@ -10,7 +10,7 @@ Behavioral.
 - FlyWeight
 
 - Strategy 
-- Chain of Command
+- Chain of Responsibility
 - Visitor
 
 
